@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CIC",
+    "I I",
+    "CIC"
+  ],
+  "key": {
+    "C": {
+      "tag": "neoforge:ingots/compressed_iron"
+    },
+    "I": {
+      "tag": "neoforge:plates/iron"
+    }
+  },
+  "result": {
+    "id": "compressedcreativity:mesh_empty"
+  }
+}

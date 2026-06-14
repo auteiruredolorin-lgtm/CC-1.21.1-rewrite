@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "neoforge:gems/lapis"
+    },
+    {
+      "tag": "neoforge:ingots/brass"
+    }
+  ],
+  "results": [
+    {
+      "item": "compressedcreativity:brass_gilded_lapis_lazuli"
+    }
+  ],
+  "heatRequirement": "heated"
+}

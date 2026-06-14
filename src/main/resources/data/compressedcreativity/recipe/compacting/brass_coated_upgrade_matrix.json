@@ -1,0 +1,20 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "pneumaticcraft:upgrade_matrix"
+    },
+    {
+      "tag": "neoforge:nuggets/brass"
+    },
+    {
+      "tag": "neoforge:nuggets/brass"
+    }
+  ],
+  "results": [
+    {
+      "item": "compressedcreativity:brass_coated_upgrade_matrix"
+    }
+  ],
+  "heatRequirement": "heated"
+}
